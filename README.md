@@ -1,2 +1,3 @@
-# mini-e-learning-2f6h
-A online learning platform for modern development workflows
+# Mini E Learning 2F6H
+
+A online learning platform for modern development workflows.
